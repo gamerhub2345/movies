@@ -44,11 +44,11 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/') #Support group link 
 #---------------------------------------------------------------
 IS_VERIFY = is_enabled('IS_VERIFY', True)
 #---------------------------------------------------------------
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/")
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/newmoviess123456/164")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
 SHORTENER_API = environ.get("SHORTENER_API", "242d0e638f729173a04aa027a732d5463530e632")
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'omegalinks.in')
-ONE_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "14400"))
+ONE_VERIFY_GAP = int(environ.get('ONE_VERIFY_GAP', "14400"))
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 LANGUAGES = ["hindi", "english", "telugu", "tamil", "kannada", "malayalam", "bengali", "marathi", "gujarati", "punjabi"]
